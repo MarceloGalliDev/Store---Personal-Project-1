@@ -7,6 +7,7 @@ We are going to create an online store for selling IT products.
 - We are using convetional-commits.
 - We are using Prisma for ORM, faciliting development this backend.
 - We are using SupaBase for data.
+- We are using chadcn ui.
 
 ### Prisma
 - npx prisma migrate dev --name init
