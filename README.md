@@ -4,4 +4,10 @@ We are going to create an online store for selling IT products.
 
 ### Summary
 - We started the project with mobile first, standard second.
+- We are using convetional-commits.
 - We are using Prisma for ORM, faciliting development this backend.
+- We are using SupaBase for data.
+
+### Prisma
+- npx prisma migrate dev --name init
+
