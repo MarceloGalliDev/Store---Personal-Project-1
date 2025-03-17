@@ -12,3 +12,7 @@ We are going to create an online store for selling IT products.
 ### Prisma
 - npx prisma migrate dev --name init
 
+
+### Chadcn UI
+- npx shadcn@latest init
+- npx shadcn@latest add button (example)
