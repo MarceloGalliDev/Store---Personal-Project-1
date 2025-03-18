@@ -16,3 +16,16 @@ We are going to create an online store for selling IT products.
 ### Chadcn UI
 - npx shadcn@latest init
 - npx shadcn@latest add button (example)
+
+
+### GCP
+- create a api-key IdClientOAuth
+- For DEV
+- Insert JavaScript autorized - http://localhost:3000
+- Insert URI redirect autorized - http://localhost:3000/api/auth/callback/google
+
+### Next Auth
+- https://authjs.dev/getting-started/installation
+- Install next-auth
+- Generate auth secret
+- Includes Providers and Adapter
